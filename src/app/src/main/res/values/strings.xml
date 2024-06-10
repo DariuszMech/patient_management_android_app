@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_username">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_signInButton">Sing In</string>
+    <string name="txt_signUpButton">Sing Up</string>
+    <string name="txt_loginPanel">Sing In</string>
+    <string name="txt_createPanel">Create Account</string>
+    <string name="txt_settingsPanel">Settings</string>
+    <string name="txt_haveAccount">Already have an acoount? Sign in Here</string>
+    <string name="txt_dontHaveAccount">Dont have an acoount? Sign up Here</string>
+    <string name="txt_userMenu">Menu</string>
+
+
+
+</resources>
